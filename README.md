@@ -1,16 +1,14 @@
 <div align="center">
 <h1>📡 MTL-2: Portable High-Power LoRa node</h1>
-<img src="03-pic/04.jpg" alt="Logo" width="20%"> 
-<img src="03-pic/12.jpg" alt="Logo" width="22%">
-<img src="03-pic/08-Case-ver1.jpg" alt="Logo" width="20%">
-  
-<img src="03-pic/03.jpg" alt="Logo" width="70%"> 
-  
+  <img src="03-pic/08.jpg" alt="08" width="30%">
+
 <div align="left">
   
-## MTL-2
+  ## MTL-2
 MTL-2 - Это портативное энергоэкономичное устройство, основанное на модулях Ebyete и ProMicro (NRF52840). Предназначено для работы в MeshCore, Meshtastic, в качестве клиента и ретранслятора.
 
+ 
+  
 ##  Ключевые особенности
 * LoRa 30-31dBm
 * Oled 1.3'
@@ -26,3 +24,8 @@ MTL-2 - Это портативное энергоэкономичное уст�
 
 ##  Software
 The software was developed by [VladelfPv](https://github.com/VladelfPv)  [MTLmicro](https://github.com/VladelfPv/MeshCoreMTL.git) 
+
+
+ <img src="03-pic/03.jpg" alt="Main" width="30%">
+ 
+
