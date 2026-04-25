@@ -1,8 +1,9 @@
 <div align="center">
 <h1>📡 MTL-2: Portable High-Power LoRa node</h1>
-<img src="03-pic/08.jpg" alt="Logo" width="70%"> 
-
-<h1>📡 MTL-2: Portable High-Power LoRa node</h1>
+<img src="03-pic/04.jpg" alt="Logo" width="20%"> 
+<img src="03-pic/12.jpg" alt="Logo" width="22%">
+<img src="03-pic/08-Case-ver1.jpg" alt="Logo" width="20%">
+  
 <img src="03-pic/03.jpg" alt="Logo" width="70%"> 
   
 <div align="left">
