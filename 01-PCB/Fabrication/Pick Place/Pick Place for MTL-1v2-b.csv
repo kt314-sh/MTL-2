@@ -1,0 +1,30 @@
+
+Date:       04.12.25
+Time:       21:28
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Footprint","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Comment"
+"C5","C_0603_1608Metric","23.5000","-69.2000","TopLayer","180","CC0603KRX5R7BB475"
+"C6","C_0603_1608Metric","23.5000","-70.8000","TopLayer","360","CC0603JRX7R9BB104"
+"C7","C_0603_1608Metric","27.4000","-73.4000","TopLayer","90","CC0603JRX7R9BB104"
+"C8","C_0603_1608Metric","0.5000","-40.4000","TopLayer","90","CC0603JRNPO9BN102"
+"C11","C_0603_1608Metric","0.5000","-36.9000","TopLayer","90","CC0603KRX5R7BB475"
+"C15","C_0603_1608Metric","12.1000","-83.7000","TopLayer","270","CC0603JRX7R9BB104"
+"C17","C_0603_1608Metric","8.8000","-93.3000","TopLayer","360","CC0603KRX5R7BB475"
+"R1","R_0603_1608Metric","25.3000","-94.4000","TopLayer","90","RC0603FR-075K1L"
+"R2","R_0603_1608Metric","23.1000","-94.4000","TopLayer","90","RC0603FR-075K1L"
+"R5","R_0603_1608Metric","26.4000","-55.9000","TopLayer","270","RC0603FR-0710KL"
+"R8","R_0603_1608Metric","28.4000","-55.9000","TopLayer","90","RC0603FR-07470RL"
+"R25","R_0603_1608Metric","27.4000","-87.9000","TopLayer","270","RC0603FR-071KL"
+"R27","R_0603_1608Metric","16.1000","-81.7000","TopLayer","90","RC0603FR-071K2L"
+"R28","R_0603_1608Metric","12.2000","-93.1000","TopLayer","90","RC0603FR-070RL"
+"R29","R_0603_1608Metric","12.2000","-96.1000","TopLayer","90","RC0603FR-070RL"
+"U4","SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias","15.4000","-87.4000","TopLayer","90","TP4056-42-ESOP8"
+"VT1","SOT-23-3","27.4000","-59.9000","TopLayer","90","AO3401"
+"VT7","TSSOP-8_4.4x3mm_P0.65mm","1.4000","-90.4001","TopLayer","270","FS8205A"
+"VT8","SOT-23-3","9.1000","-83.8000","TopLayer","360","AO3401"
+"VT9","SOT-23-3","9.1000","-90.6000","TopLayer","360","AO3401"
+"VT10","SOT-23-3","9.1000","-87.2000","TopLayer","360","AO3401"
+"VT11","TSSOP-8_4.4x3mm_P0.65mm","4.9000","-90.3999","TopLayer","90","FS8205A"
