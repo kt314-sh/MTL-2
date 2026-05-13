@@ -31,10 +31,15 @@ The software was developed by [VladelfPv](https://github.com/VladelfPv)  [MTLmic
 
 ##  Software Meshtastic
 Use the J9 jumper for compatibility with FakeTec. In this case, DC-DC Up remains constantly on, which will increase battery consumption to 10mA.
+
 As a jumper, you can use the chip ferrite beads like BLM21PG221SN1D, BLM21PG121SH1D etc 
 Оther settings are configured in the Meshtastic software.
 
-<img src="03-pic/14-ProMicro-J9.jpg" alt="FakeTec" width="30%">
+GPIO: 
+- 6-Buzzer.
+- 8-Vibro.
+
+<img src="03-pic/14-ProMicro-J9.jpg" alt="FakeTec" width="30%"><img src="03-pic/19.jpg" alt="FakeTec2" width="12%">
 
 ##  Update Software 
 To update the Software, click the RESET button twice. In the window that opens, copy the firmware file xxxxx.uf2
@@ -44,6 +49,6 @@ To update the Software, click the RESET button twice. In the window that opens, 
 
 ##  Additional images
 
- <img src="03-pic/03.jpg" alt="Main" width="205" height="150"><img src="03-pic/PCB-2.png" alt="PCB" width="198" height="213"><img src="03-pic/04-Case-ver1.jpg" alt="3dCaseF" width="142" height="221"><img src="03-pic/05-Case-ver1.jpg" alt="3dCaseB" width="132" height="219"><img src="03-pic/12.jpg" alt="back" width="187" height="256">
+ <img src="03-pic/03.jpg" alt="Main" width="205" height="150"><img src="03-pic/PCB-2.png" alt="PCB" width="198" height="213"><img src="03-pic/04-Case-ver1.jpg" alt="3dCaseF" width="142" height="221"><img src="03-pic/05-Case-ver1.jpg" alt="3dCaseB" width="132" height="219"><img src="03-pic/12.jpg" alt="back" width="187" height="256"><img src="03-pic/20.jpg" alt="case" width="30%">
  
 
