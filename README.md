@@ -5,7 +5,7 @@
 <div align="left">
   
   ## MTL-2
-MTL-2 - Это портативное энергоэкономичное устройство, основанное на модулях Ebyete и ProMicro (NRF52840). Предназначено для работы в MeshCore, Meshtastic, в качестве клиента и ретранслятора.
+MTL-2 - Это портативное энергоэкономичное устройство, основанное на модулях [Ebyete](https://www.ebyte.com/) и ProMicro (NRF52840). Предназначено для работы в [MeshCore](https://github.com/meshcore-dev), [Meshtastic](https://github.com/meshtastic), в качестве клиента и ретранслятора.
 
  
   
