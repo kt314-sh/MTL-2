@@ -46,6 +46,29 @@ To update the Software, click the RESET button twice. In the window that opens, 
 
 <img src="03-pic/16.jpg" alt="interface1" width="20%">
 
+##  Files
+*[Gerber and Pick Place](/01-PCB/Fabrication)
+
+*Shematic and documentation for [E22](/01-PCB/e22-C)
+
+*Shematic and documentation for [E22p](/01-PCB/e22p-C)
+
+*[IO spreadsheet](/01-PCB/MTL-2_IO.xlsx)
+
+*3d model PCB [step](/04-3dmod)
+
+*3d print model [Case](/05-case)
+
+##  ⚠️Special attention
+ Replace the capacitor C6 with a jumper!
+
+
+
+
+
+
+
+
 
 ##  Additional images
 
