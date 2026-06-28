@@ -46,6 +46,25 @@ To update the Software, click the RESET button twice. In the window that opens, 
 
 <img src="03-pic/16.jpg" alt="interface1" width="20%">
 
+### Frequency range
+#### 150-170Mhz
+- e22-170m30s    SX1268  30dBm
+
+#### 430Mhz
+- e22p-433m30s   SX1268          30dBm
+- e22-400m30s    SX1262, SX1268  30dBm 
+- e22-400m33s    SX1268          33dBm
+<img src="03-pic/e22p-433m30s.jpg" alt="mtle22p433" width="20%">
+
+
+#### 868-915Mhz
+- e22p-868m30s   SX1262  31dBm
+- e22p-915m30s   SX1262  31dBm 
+- e22-900m30s    SX1262  30dBm
+- e22-900m33s    SX1262  33dBm
+
+<img src="03-pic/e22p-868m30s.jpg" alt="mtle22p868" width="20%">
+
 ##  Files
 *[Gerber and Pick Place](/01-PCB/Fabrication)
 
