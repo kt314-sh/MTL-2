@@ -1,6 +1,6 @@
 <div align="center">
 <h1>📡 MTL-2: Portable High-Power LoRa node</h1>
-  <img src="03-pic/08.jpg" alt="08" width="30%">
+  <img src="03-pic/08.jpg" alt="08" width="30%"> <img src="03-pic/22.jpg" alt="22" width="32%">
 
 <div align="left">
   
@@ -91,6 +91,6 @@ To update the Software, click the RESET button twice. In the window that opens, 
 
 ##  Additional images
 
- <img src="03-pic/03.jpg" alt="Main" width="205" height="150"><img src="03-pic/PCB-2.png" alt="PCB" width="198" height="213"><img src="03-pic/04-Case-ver1.jpg" alt="3dCaseF" width="142" height="221"><img src="03-pic/05-Case-ver1.jpg" alt="3dCaseB" width="132" height="219"><img src="03-pic/12.jpg" alt="back" width="187" height="256"><img src="03-pic/20.jpg" alt="case" width="30%">
+ <img src="03-pic/03.jpg" alt="Main" width="205" height="150"><img src="03-pic/PCB-2.png" alt="PCB" width="198" height="213"><img src="03-pic/04-Case-ver1.jpg" alt="3dCaseF" width="142" height="221"><img src="03-pic/05-Case-ver1.jpg" alt="3dCaseB" width="132" height="219"><img src="03-pic/12.jpg" alt="back" width="187" height="256"><img src="03-pic/20.jpg" alt="case" width="30%"><img src="03-pic/23.jpg" alt="23" width="15%">
  
 
